@@ -35,6 +35,10 @@ Then services will be available at following addresses:
 - **ITOP_DB_USER** = itop
 - **ITOP_DB_PASS** = itop
 
+### Database
+- No crear db
+- Usar itop
+
 ### Php settings
 
 - **PHP_TIMEZONE** = "Europe/Paris"
